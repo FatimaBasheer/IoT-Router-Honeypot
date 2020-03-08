@@ -1,0 +1,55 @@
+
+ls
+
+ls
+
+ls
+
+ls
+
+app
+
+exit
+User> 
+User> ls
+User> 
+User> ls
+User> 
+User> ls
+User> 
+User> la
+User> 
+User> cat sdk
+User> 
+User> fgedit
+User> 
+User> ls
+User> 
+User> exit
+User> 
+User> ls
+User> 
+User> ls
+User> 
+User> ls
+User> 
+User> exit
+User> 
+User> sls
+User> ls
+User> ls
+User> ls
+User> ls
+User> ls
+User> ls
+User> ls
+User> exit
+IP Addr: 127.0.0.1 Port: 54371 Socket: <socket._socketobject object at 0x10a0640c0> > 
+IP Addr: 127.0.0.1 Port: 54371 Socket: <socket._socketobject object at 0x10a0640c0> > sls
+IP Addr: 127.0.0.1 Port: 54371 Socket: <socket._socketobject object at 0x10a0640c0> > ls
+IP Addr: 127.0.0.1 Port: 54371 Socket: <socket._socketobject object at 0x10a0640c0> > ls
+IP Addr: 127.0.0.1 Port: 54371 Socket: <socket._socketobject object at 0x10a0640c0> > exit
+IP Addr: 127.0.0.1 Port: 54378 > ls
+IP Addr: 127.0.0.1 Port: 54378 > ls
+IP Addr: 127.0.0.1 Port: 54378 > ls
+IP Addr: 127.0.0.1 Port: 54378 > exit
