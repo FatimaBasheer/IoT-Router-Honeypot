@@ -13,3 +13,4 @@ Things I have tried and tested here
     b. updated fork with blacktop/docker-cuckoo
     c. Changing VirtualBox configurations (basically path to VBoxManage) to /Applications/VirtualBox.app/Contents/MacOS/VBoxManage for MACOS in virtualbox.conf in 2.0, 1.2 and ./modified. Still not working :(
     d. pip3 install cuckoo & cuckoo. After downloading this, will try to change virtualbox.conf here
+        Currently.. some issue with "import yara". fixing with pip uninstall yara --> brew install yara
